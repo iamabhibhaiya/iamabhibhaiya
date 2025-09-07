@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page=iamabhibhaiya.iamabhibhaiya" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=iamabhibhaiya&repo=iamabhibhaiya" />
 </p>
 
 ### Hi there, I'm Abhi Bhaiya 👋
